@@ -1,4 +1,5 @@
 # Excel-Sales-and-finance-analytics
+## Introduction
 AtliQ Hardware is a manufacturer and distributor of personal computers, mice, printers, and peripheral devices. Their products reach customers through retail stores like Croma and Best Buy, as well as online platforms like Flipkart and Amazon.
 
 This project dives into the company's sales and financial performance across years and geographies, helping uncover growth trends, customer behaviors, and market dynamics using **Excel**.
@@ -30,9 +31,7 @@ This project dives into the company's sales and financial performance across yea
 
 ## Reports Created
 **1. Customer Performance Report**
-- Shows yearly sales per customer.
-
-- Includes YoY growth % to measure retention and expansion.
+- A detailed analysis of customer performance over the years, highlighting sales figures and growth percentages.
 
 **2. Market vs Target Report**
 - Compares actual market sales to predefined targets.
