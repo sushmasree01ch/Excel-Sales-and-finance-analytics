@@ -36,7 +36,7 @@ This project dives into the company's sales and financial performance across yea
 **2. Market vs Target Report**
 - Compares actual market sales to predefined targets.
 
-- Highlights over-performance in green, under-performance in red.
+- Highlights over-performance in yellow, under-performance in white.
 
 **3. Top & Bottom 5 Products Report**
 - Two separate rankings for high and low-performing products.
